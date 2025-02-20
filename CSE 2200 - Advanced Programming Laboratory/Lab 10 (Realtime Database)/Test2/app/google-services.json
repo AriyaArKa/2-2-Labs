@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "778185217674",
+    "firebase_url": "https://test2-d8121-default-rtdb.firebaseio.com",
+    "project_id": "test2-d8121",
+    "storage_bucket": "test2-d8121.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778185217674:android:d45c3376eacb387d2dbf73",
+        "android_client_info": {
+          "package_name": "com.example.test2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmAKEiqyMeW3dtLIA2pUJtCGc_ivFNe3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
